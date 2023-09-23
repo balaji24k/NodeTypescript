@@ -4,7 +4,8 @@
   "description": "ts-node",
   "main": "index.js",
   "scripts": {
-    "test": "test typescript"
+    "test": "test typescript",
+    "start": "node dist/app.js"
   },
   "author": "Balaji",
   "license": "ISC",
